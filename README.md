@@ -4,11 +4,11 @@
 # About me
 ---
 * living in a box under a bridge.
-* Mechatronics Engineer
+* Mechatronics Engineer.
 
 # Activities
 ---
-* Learning: Robotics, Systems Design, Quant, AlgoTrading
+* Learning: Electronic, Robotics and Systems design + General SWE.
 * Active projects: close-source-software
 ```
 <sub>"A machine doesn't improvise well because you cannot program a fear of death. Our survival instinct is our greatest source of inspiration." — Dr. Mann</sub>
@@ -38,8 +38,7 @@
 ![macOS](https://img.shields.io/badge/macOS-ffffff?style=for-the-badge&logo=apple&labelColor=black&logoColor=F0F0F0)
 ![Fedora](https://img.shields.io/badge/Fedora-1793D1?style=for-the-badge&labelColor=black&logo=fedora&logoColor=fff)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&labelColor=black&logo=debian&logoColor=fff)
----
+<br>
 ![Ghostty](https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?style=for-the-badge&labelColor=black&logo=ghostty_term&logoColor=fff)
 ![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&labelColor=black&logo=tmux&logoColor=fff)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&labelColor=black&logo=neovim&logoColor=fff)
-![Zed](https://img.shields.io/badge/Zed-white?style=for-the-badge&labelColor=black&logo=zedindustries&logoColor=fff)
